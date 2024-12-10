@@ -4,7 +4,7 @@ A Python-based app for patients with Medtronic Percept™ PC neurostimulator. It
 ﻿***DBS Data Analyzer User Manual***  
 ![](readme_files/Aspose.Words.946d90c2-b665-4600-b5cf-e80b55be26c8.001.jpg)
 
-## Installation
+# Installation
 1. Download the zip file.
 2. Extract the contents of the ZIP folder (named "**dist**") to your preferred location on your computer.  
 3. Right-click the file named **"DBS_Data_Analyzer_ver_X"** (currently version 2) and select **Create Shortcut** from the context menu.  
