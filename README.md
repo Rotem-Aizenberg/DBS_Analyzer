@@ -16,7 +16,7 @@ Additionally, the application automates the creation of comprehensive **PDF repo
 4. Move the shortcut to a convenient location on your computer.  
 5. Launch the application by double-clicking the shortcut.  
 
-## Usage Guide
+# Usage Guide
 1. Create a dedicated folder for a single patient and ensure it contains all the relevant JSON files associated with that patient.  
 2. Launch the **DBS Data Analyzer** application. On the opening screen, click the **Start** button.  
    ![](readme_files/Aspose.Words.946d90c2-b665-4600-b5cf-e80b55be26c8.002.png)
