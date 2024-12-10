@@ -1,7 +1,7 @@
 # DBS_Analyzer
 A Python-based app for patients with Medtronic Percept™ PC neurostimulator. It extracts data to Excel, generates detailed PDF reports with LFP signal visualizations, and supports clinical and electrophysiological monitoring.
 
-﻿***DBS Data Analyzer User Manual***  
+﻿# DBS Data Analyzer User Manual
 ![](readme_files/Aspose.Words.946d90c2-b665-4600-b5cf-e80b55be26c8.001.jpg)
 
 # Installation
