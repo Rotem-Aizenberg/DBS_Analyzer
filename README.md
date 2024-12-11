@@ -42,7 +42,7 @@ The process is complete once the progress bar reaches the end, signaling that th
    - **Clinical Excel File**: A file containing all accumulated clinical data for the patient. This file is updated during each run, ensuring there is always only one updated version in the folder.  
    - **Montages Excel File**: A file containing extracted features (both periodic and aperiodic) for each montage, hemisphere, and contact.  
    - **Home Recording Excel File**: A file including all LFP samples (recorded every 10 minutes within a defined frequency range) from all JSON files in the folder.  
-   ![](readme_files/Aspose.Words.946d90c2-b665-4600-b5cf-e80b55be26c8.010.jpg)
+   ![](readme_files/Aspose.Words.946d90c2-b665-4600-b5cf-e80b55be26c8.009.jpg)
 
 11. The application tracks JSON files that have already been processed. During subsequent runs, the application processes only the new files in the folder that were not included in previous runs.  
 
