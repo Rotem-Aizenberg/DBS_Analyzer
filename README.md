@@ -12,7 +12,7 @@ Additionally, the application automates the creation of comprehensive **PDF repo
 
 
 # Installation
-1. Download the zip file from [here](https://drive.google.com/file/d/1u0fwb8m4guAEwfSod4SIQ9pQGDZl-Qb1/view?usp=drive_link).
+1. Download the zip file from [here](https://drive.google.com/file/d/1LRxPuBhAb4_hCnQNvtR30aXrj5w_6InR/view?usp=drive_link).
 2. Extract the contents of the ZIP folder (named "**dist**") to your preferred location on your computer.  
 3. Right-click the file named **"DBS_Data_Analyzer_ver_X"** (currently version 2) and select **Create Shortcut** from the context menu.  
 4. Move the shortcut to a convenient location on your computer.  
